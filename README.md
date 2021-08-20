@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... supporting beautiful and smart and beautiful software developers
 - 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... games!! games!! games!!
-- 📫 How to reach me ... slide into the dms
+- 📫 How to reach me ... iykyk
 
 <!---
 lurkymclurker/lurkymclurker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
